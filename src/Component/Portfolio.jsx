@@ -12,8 +12,8 @@ const Portfolio = () => {
             pic:Myportfolio,
             name:"My Portfolio",
             para: "React with Tailwind CSS and fully responsive",
-            githublink:"https://github.com/MuhammadDan/Growintern_Task2",
-            Livepreviewlink:"https://muhammaddan.github.io/Growintern_Task2/"
+            githublink:"https://github.com/MuhammadDan/myportfoliowebsite",
+            Livepreviewlink:"https://inspiring-naiad-2b992b.netlify.app/"
         },
         {
             id:2,
