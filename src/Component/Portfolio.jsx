@@ -5,12 +5,12 @@ import Tic_Tac_Toe from '../../src/assets/Tic-Tac-Toe.jpg';
 import Landing_page from '../../src/assets/Landing page.jpg';
 import Weather_App from '../../src/assets/Weatherapp.jpg';
 import Myportfolio from '../../src/assets/Portfolio.jpg';
-import ShopriaEcomerce from '../../src/assets/ShopriaEcomerce.jpg';
+import Shopriaecomerce from '../../src/assets/ShopriaEcomerce.jpg';
 const Portfolio = () => {
     const cardItem=[
         {
             id:1,
-            pic:ShopriaEcomerce,
+            pic:Shopriaecomerce,
             name:"Ecomerce Website",
             para: "React with Tailwind CSS and fully responsive",
             githublink:"https://github.com/MuhammadDan/shoporiareact-app",
