@@ -22,7 +22,7 @@ const Portfolio = () => {
             name:"My Portfolio",
             para: "React with Tailwind CSS and fully responsive",
             githublink:"https://github.com/MuhammadDan/myportfoliowebsite",
-            Livepreviewlink:"https://inspiring-naiad-2b992b.netlify.app/"
+            Livepreviewlink:"https://inquisitive-khapse-bc923d.netlify.app/"
         },
         {
             id:3,
