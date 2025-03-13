@@ -6,10 +6,19 @@ import Landing_page from '../../src/assets/Landing page.jpg';
 import Weather_App from '../../src/assets/Weatherapp.jpg';
 import Myportfolio from '../../src/assets/Portfolio.jpg';
 import Shopriaecomerce from '../../src/assets/ShopriaEcomerce.jpg';
+import EMPpic from '../../src/assets/EMPpic.jpg';
 const Portfolio = () => {
     const cardItem=[
-        {
+         {
             id:1,
+            pic:EMPpic,
+            name:"Employee Management Website",
+            para: "React with Tailwind CSS",
+            githublink:"https://github.com/MuhammadDan/employmanagementsystemreact-app",
+            Livepreviewlink:"https://tranquil-shortbread-257949.netlify.app/"
+        },
+        {
+            id:2,
             pic:Shopriaecomerce,
             name:"Ecomerce Website",
             para: "React with Tailwind CSS and fully responsive",
@@ -17,15 +26,15 @@ const Portfolio = () => {
             Livepreviewlink:"https://superlative-palmier-f214be.netlify.app/"
         },
         {
-            id:2,
+            id:3,
             pic:Myportfolio,
             name:"My Portfolio",
             para: "React with Tailwind CSS and fully responsive",
             githublink:"https://github.com/MuhammadDan/myportfoliowebsite",
-            Livepreviewlink:"https://inquisitive-khapse-bc923d.netlify.app/"
+            Livepreviewlink:"https://inspiring-naiad-2b992b.netlify.app/"
         },
         {
-            id:3,
+            id:4,
             pic:Disney,
             name:"Disney+ Hotstar Clone",
             para: "HTML,CSS and JS and fully responsive",
@@ -33,7 +42,7 @@ const Portfolio = () => {
             Livepreviewlink:"https://muhammaddan.github.io/Growintern_Task2/"
         },
         {
-            id:4,
+            id:5,
             pic:Calculator,
             name:"Calculator",
             para: "HTML,CSS and JS and fully responsive",
@@ -41,7 +50,7 @@ const Portfolio = () => {
             Livepreviewlink:"https://muhammaddan.github.io/Growintern_Task_1/"
         },
         {
-            id:5,
+            id:6,
             pic:Tic_Tac_Toe,
             name:"Tic-Tac-Toe Game",
             para: "HTML,CSS and JS and fully responsive",
@@ -49,7 +58,7 @@ const Portfolio = () => {
             Livepreviewlink:"https://muhammaddan.github.io/PRODIGY_WD_03/"
         },
         {
-            id:6,
+            id:7,
             pic:Landing_page,
             name:"LandingPage",
             para: "HTML,CSS and JS and fully responsive",
@@ -57,7 +66,7 @@ const Portfolio = () => {
             Livepreviewlink:"https://muhammaddan.github.io/PRODIGY_WD_01/"
         },
         {
-            id:7,
+            id:8,
             pic:Weather_App,
             name:"Weather app",
             para: "HTML,CSS and JS and API integration",
