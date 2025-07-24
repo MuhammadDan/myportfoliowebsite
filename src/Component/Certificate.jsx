@@ -4,8 +4,9 @@ import certificate2 from '../../src/assets/Javascript.jpg';
 import Csscertificate from '../../src/assets/CSS.jpg';
 import HTMLcertificate from '../../src/assets/HTML.jpg';
 import Pythoncertificate from '../../src/assets/Python.jpg';
+import Nextjscertificte from '../../src/assets/Nextjs Certiicate.jpg';
 const Certificate = () => {
-  const cardItem=[
+ const cardItem=[
     {
         id:1,
         pic:certificate,
@@ -35,6 +36,11 @@ const Certificate = () => {
         pic:Pythoncertificate,
         name:"Python Certificate",
         para: "Python course certificate from Datacamp"
+    },{
+        id:6,
+        pic:Nextjscertificte,
+        name:"Next JS Certificate",
+        para: "NextJS course certificate from Udemy"
     }
 ]
   return (
