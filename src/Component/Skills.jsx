@@ -6,6 +6,7 @@ const skillsData = [
   { name: "JavaScript", Level: 75 },
   { name: "React", Level: 80 },
   { name: "Tailwind", Level: 60 },
+  { name: "Next Js", Level: 60 },
 ];
 
 const Skills = () => {
