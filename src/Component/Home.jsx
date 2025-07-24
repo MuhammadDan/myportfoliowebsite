@@ -8,7 +8,7 @@ import { RiNextjsLine } from "react-icons/ri";
 import { FaDownload } from "react-icons/fa";
 import { ReactTyped } from "react-typed";
 import Daniyalpic from "../../src/assets/Dan1.jpg";
-import DaniyalResume from "../../src/assets/My Resume.pdf"
+import DaniyalResume from "../../src/assets/Resume.pdf"
 
 const Home = () => {
   return (
